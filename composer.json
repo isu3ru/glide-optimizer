@@ -1,5 +1,5 @@
 {
-    "name": "infinityweb/glide-optimizer",
+    "name": "isu3ru/glide-optimizer",
     "description": "An optimizer manipulator for Glide that uses ps/image-optimizer package.",
     "keywords": [
         "glide",
@@ -8,10 +8,10 @@
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/infinityweb/glide-optimizer",
+    "homepage": "https://github.com/isu3ru/glide-optimizer",
     "authors": [
         {
-            "name": "Yannik Firre",
+            "name": "Isuru Ranawaka",
             "role": "Developer"
         }
     ],
